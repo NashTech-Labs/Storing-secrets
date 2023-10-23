@@ -2,10 +2,10 @@
 This Python script allows you to import secrets from a file into an Azure Key Vault. It's a convenient way to manage sensitive information securely. Below are the steps to use this script:
 
 ## Prerequisites
-Python 3.x
-Azure CLI installed and configured
-You have logged in using the Azure CLI (`az login`)
-Azure Resource Group has been created
+1. Python 3.x
+2. Azure CLI installed and configured
+3. You have logged in using the Azure CLI (`az login`)
+4. Azure Resource Group has been created
 
 ## Instructions
 1. Clone the Repository
